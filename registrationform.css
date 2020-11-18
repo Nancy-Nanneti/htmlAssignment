@@ -1,0 +1,21 @@
+
+header {
+    text-align: center;
+    color: green;
+}
+
+table {
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: auto;
+
+    position: fixed;
+}
+
+tr, td {
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: pink;
+}
